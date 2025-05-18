@@ -5,7 +5,7 @@ import Lights from './Lights';
 import Loader from './Loader';  //in any case err fall to loading scr
 import IPhone from './IPhone';
 import { Suspense } from "react"; //react +THREE
-
+//Main guy of our show 
 const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, size, item }) => {
   return (
     <View

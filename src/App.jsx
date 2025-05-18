@@ -8,7 +8,7 @@ import A17 from "./components/A17"
 import Footer from "./components/Footer"
 
 const App= ()=>{
-//es6+used
+//es6+used features fn block or  wrapping in const
 
   return (
     <main className="bg-black">
@@ -19,7 +19,7 @@ const App= ()=>{
       <Features />
       <A17 />
       <Footer />
-      
+
 
       
 
